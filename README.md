@@ -68,13 +68,3 @@ After preprocessing, the datasets were merged into a **unified dataset** for in-
 🔹 **Statistical Analysis** – `scipy` (T-tests, correlations)  
 🔹 **Text Processing** – `wordcloud`, `CountVectorizer`  
 
----
-
-## 🚀 How to Run the Project
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/amithjoseph777/Airbnb-Data-Analysis.git
-cd Airbnb-Data-Analysis
-
-
