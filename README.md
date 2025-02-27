@@ -1,4 +1,4 @@
-# 🏡 Airbnb Data Analysis: Enhancing Host Strategies
+#   Airbnb Data Analysis: Enhancing Host Strategies
 
 ![Airbnb Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg)
 
